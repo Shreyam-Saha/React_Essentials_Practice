@@ -26,7 +26,7 @@ function App() {
           </ul>
         </section>
         <section id = "examples">
-          <h2>Examples</h2>
+          <h2>Example</h2>
            <menu>
             <TabButton >Components</TabButton>
             <TabButton >JSX</TabButton>
